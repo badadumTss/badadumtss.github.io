@@ -1,6 +1,6 @@
 ---
-layout: default
+layout: true_default
 title: Home
 ---
 
-Landing page, latest posts:
+Landing page
