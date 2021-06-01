@@ -24,7 +24,6 @@ github_username:  badadumTss
 
 # Build settings
 markdown: kramdown
-theme: kasper
-remote-theme: rosario/kasper
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
